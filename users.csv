@@ -1,0 +1,5 @@
+"USER_ID","USER_NAME","USER_PASSWORD","USER_ROLE"
+"user-3","verify@gmail.com","1234","verifier"
+"user-4","staff@gmail.com","1234","staff"
+"user-1","yravinderkumar33@gmail.com","1234","admin"
+"user-2","test@gmail.com","1234","staff"
